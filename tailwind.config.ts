@@ -75,4 +75,4 @@ const config: Config = {
   },
   plugins: [addVariablesForColors, addSvgPatterns],
 };
-export default config;
+export default config;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
