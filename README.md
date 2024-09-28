@@ -31,7 +31,9 @@ The project is structured into the following folders:
 ## Code
 
 ## Description
-Seach "chai aur code" on youtube and watch it there
+This project is a music school website built using NextJS, a popular React-based framework for building server
+rendered and statically generated websites. The project includes features such as user authentication, course
+management, and payment processing.
 
 ## contributon
 No need to make any PR in this repo. Specially DO NOT touch the README.md file
