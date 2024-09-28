@@ -3,6 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import MusicSchoolTesimonialCards from "@/components/TestimonialCards";
 import UpcomingWebinars from "@/components/UpcomingWebinar";
 import WhyChooseUs from "@/components/WhyChooseUs";
+import Intructors from "@/components/Instructors";
 
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
       <WhyChooseUs/>
       <MusicSchoolTesimonialCards/>
       <UpcomingWebinars/>
+      <Intructors/>
     </main>
   )
     
